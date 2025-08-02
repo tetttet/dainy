@@ -1,0 +1,32 @@
+{
+    "Header": {
+        "navLinks": {
+            "Home": "Home",
+            "About": "About",
+            "News": "News",
+            "Documentation": "Documentation",
+            "Contact": "Contact"
+        },
+        "dropdownLinks": {
+            "Dashboard": "Dashboard",
+            "Settings": "Settings",
+            "SignOut": "Sign Out"
+        }
+    },
+    "Main": {
+        "heading": "Ask a question —\nget an accurate answer\nfrom {name}, your medical assistant",
+        "subheading": "Your health is in safe hands",
+        "questionBox": {
+            "title": "Have existing",
+            "highlight": "questions?",
+            "write": "Write to us!",
+            "or": "or ",
+            "call": "Call us"
+        }
+    },
+    "Bot": {
+        "reset": "Reset",
+        "message": "Message",
+        "thinking": "Thinking"
+    }
+}
